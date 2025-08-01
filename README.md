@@ -44,6 +44,6 @@ Performed EDA using pivot tables and charts to explore:
 ## Recommendations
 
 - Focus marketing efforts on top-performing customers and customers
-- promote medium roast Robusta and large-size packages for high profitability
-- Regular update dashboards to track real-time performance.
+- promote Ara and Lib and for high profitability
+- Regular update dashboards to track real-time performance
 
