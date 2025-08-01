@@ -38,7 +38,7 @@ Performed EDA using pivot tables and charts to explore:
 ## Results and Findings
 
 - Unites States was the leading country by total sales
-- Robusta and Arabica coffee types with medium roast were the most popular
+- Ara and Lib coffee types were the most popular
 - A small group of customers contributed a large portion of revenue
 
 ## Recommendations
