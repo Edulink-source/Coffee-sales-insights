@@ -32,4 +32,18 @@ Performed EDA using pivot tables and charts to explore:
 
 - Sales over time(trends by month and year)
 - Sales performance by country
+- Top customers by total spend
+- Product performance by type
+
+## Results and Findings
+
+- Unites States was the leading country by total sales
+- Robusta and Arabica coffee types with medium roast were the most popular
+- A small group of customers contributed a large portion of revenue
+
+## Recommendations
+
+- Focus marketing efforts on top-performing customers and customers
+- promote medium roast Robusta and large-size packages for high profitability
+- Regular update dashboards to track real-time performance.
 
